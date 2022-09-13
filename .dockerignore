@@ -1,0 +1,8 @@
+node_modules/
+actions/
+.env
+.git
+heroku.yml
+README.md
+jest.*
+.eslint*
